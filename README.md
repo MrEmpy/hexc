@@ -6,8 +6,6 @@
 
 ```
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
 #include "hex.h"
 
 int main() {
@@ -20,8 +18,6 @@ int main() {
 
 ```
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
 #include "hex.h"
 
 int main() {
